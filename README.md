@@ -5,10 +5,10 @@
 [![Gmail](https://img.shields.io/badge/hajrudin@arteoncloud.com-5C6EC1?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hajrudin@arteoncloud.com)](mailto:hajrudin@arteoncloud.com)
 
 
-####  I am System Administrator and web dev. from Bosnia and Herzegovina 
+####  I am System Administrator and web dev. from Bosnia and Herzegovina 🌆
 <br />
 
-Welcome to my humble github profile. I come from a small town called Vogošća, near the capital Sarajevo. System administration and web programing is my hobby and the mini business for school allowance. I am currently attending Electrical Engineering High School
+Welcome to my humble github profile 🌋. I come from a small town called Vogošća, near the capital Sarajevo. System administration and web programing is my hobby and the mini business for school allowance. I am currently attending Electrical Engineering High School 🎇.
 
 #### 🖥 Language
 
