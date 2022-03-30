@@ -2,7 +2,7 @@
 
 [![Facebook](https://img.shields.io/badge//softic21-5C6EC1?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/softic21)](https://www.facebook.com/softic21/)
 [![Instagram](https://img.shields.io/badge/@softicc-5C6EC1?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/softicc/)](https://www.instagram.com/softicc/)
-[![Gmail](https://img.shields.io/badge/hajrudin@arteoncloud.com-5C6EC1?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hajrudin@arteoncloud.com)](mailto:hajrudin@arteoncloud.com)
+[![Gmail](https://img.shields.io/badge/hajrudin.softic@arteoncloud.com-5C6EC1?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hajrudin.softic@arteoncloud.com)](mailto:hajrudin@arteoncloud.com)
 
 
 ####  I am System Administrator and web dev. from Bosnia and Herzegovina 🌆
