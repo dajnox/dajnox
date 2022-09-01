@@ -19,7 +19,6 @@ I know the following:
 - MySQL
 
 I stared learning:
-- Python
 - C#
 
 #### 📑 My Github stats
