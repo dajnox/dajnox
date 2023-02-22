@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6200&pause=3200&color=F7F7F7&repeat=false&width=435&height=45&lines=root%40hajrudin.dev+~+%23+sh+readme.sh;root%40hajrudin.dev+~+%23+%7C" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6200&pause=3200&color=F7F7F7&width=435&height=45&lines=root%40hajrudin.dev+~+%23+sh+readme.sh;root%40hajrudin.dev+~+%23+%7C" alt="Typing SVG" /></a>
 
 ####  I am Linux System Administrator from Bosnia and Herzegovina 🌆
 
