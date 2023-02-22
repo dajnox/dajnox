@@ -1,27 +1,18 @@
-## 🌃 Hajrudin Softic - @dajnox
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6200&pause=3200&color=F7F7F7&repeat=false&width=435&height=45&lines=root%40hajrudin.dev+~+%23+sh+readme.sh;root%40hajrudin.dev+~+%23+%7C" alt="Typing SVG" /></a>
 
-[![Facebook](https://img.shields.io/badge//softic21-5C6EC1?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/softic21)](https://www.facebook.com/softic21/)
-[![Instagram](https://img.shields.io/badge/@softicc-5C6EC1?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/softicc/)](https://www.instagram.com/softicc/)
-[![Gmail](https://img.shields.io/badge/hajrudin.softic@arteoncloud.com-5C6EC1?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hajrudin.softic@arteoncloud.com)](mailto:hajrudin@arteoncloud.com)
+####  I am Linux System Administrator from Bosnia and Herzegovina 🌆
 
 
-####  I am System Administrator and web dev. from Bosnia and Herzegovina 🌆
+Welcome to my humble GitHub profile 🌋. I live in Vogosca, a small town near the capital of Bosnia and Herzegovina. I work in system administration for Linux operating systems and as a hobby, I also know front-end web development as well as web design 🎇.
 <br />
+#### 🖥 What I use / know
 
-Welcome to my humble github profile 🌋. I come from a small town called Vogošća, near the capital Sarajevo. System administration and web programing is my hobby and the mini business for school allowance. I am currently attending Electrical Engineering High School 🎇.
+<img alt="html,css,scss,react,php,linux,bash,docker,photosho" title='html,css,scss,react,php,linux,bash,docker,photosho' src="https://skillicons.dev/icons?i=linux,bash,docker,cf" />
 
-#### 🖥 Language
+#### 🖥 What else do I know
+ 
+<img alt="html,css,scss,react,php,photoshop" title='html,css,scss,react,php,photoshop' src="https://skillicons.dev/icons?i=html,css,scss,react,php,photoshop" />
 
-I know the following: 
-- PHP
-- Node.js
-- React & React native
-- MySQL
+#### 🗳 Contact
 
-I stared learning:
-- C#
-
-#### 📑 My Github stats
-
-[![Hajrudin's github stats](https://github-readme-stats.vercel.app/api?username=dajnox&show_icons=true&theme=tokyonight&dajnox=hahah)](https://github.com/dajnox/)
-
+[![Gmail](https://img.shields.io/badge/xxx@hasoftnet.com-5C6EC1?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info@hasoftnet.com)](mailto:info@hasoftnet.com)
