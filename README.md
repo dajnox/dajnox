@@ -15,4 +15,4 @@ Welcome to my humble GitHub profile 🌋. I live in Vogosca, a small town near t
 
 #### 🗳 Contact
 
-[![Gmail](https://img.shields.io/badge/xxx@hasoftnet.com-5C6EC1?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info@hasoftnet.com)](mailto:info@hasoftnet.com)
+[![Gmail](https://img.shields.io/badge/hajrudin.softic@outlook.com-5C6EC1?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hajrudin.softic@outlook.com)](mailto:hajrudin.softic@outlook.com)
